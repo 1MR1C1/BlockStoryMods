@@ -1,0 +1,11 @@
+# This repository ships the compiled mods only. Everything is ignored by default; we explicitly allow
+# the docs and the mod DLLs. Source, the game's reference DLLs (refs/), decompiled game code (decomp/),
+# build output and local tooling are never tracked.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/INSTALL.txt
+!/mods/
+/mods/*
+!/mods/*.dll

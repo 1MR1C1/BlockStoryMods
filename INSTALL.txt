@@ -1,0 +1,18 @@
+Block Story Mods — install
+
+1. Install the Block Story Mod Kit: https://github.com/1MR1C1/BlockStoryModKit
+   It sets up your game and installs the BlockStoryCore framework these mods need.
+
+2. Add the mods you want with the Mod Kit, or install these .dll files with it.
+
+3. Start the game. Each mod's hotkey can be changed in the in-game keybinding menu.
+
+Mods included:
+  Minimap.dll          - minimap, world map, waypoints
+  VeinMiner.dll        - mine a whole vein in one hit
+  Xray.dll             - see ores and liquids through walls
+  CharacterEditor.dll  - live-edit stats, vitals, level, XP
+  NpcMenu.dll          - talk to any NPC to take/hand in quests
+  Xenor.dll            - the Xenor creature, spawner, soul and rideable pet
+
+All rights reserved. See LICENSE.
